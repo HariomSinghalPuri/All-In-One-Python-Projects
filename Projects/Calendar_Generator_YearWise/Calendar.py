@@ -9,7 +9,7 @@ import calendar
 def showCal():
     
     #new calendar window
-    new_window = Tk()
+    new_window = Toplevel()
 
     #setting the background color of GUI application
     new_window.config(background = 'white')
