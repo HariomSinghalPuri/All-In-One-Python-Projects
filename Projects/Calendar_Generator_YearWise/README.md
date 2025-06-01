@@ -6,7 +6,7 @@ A simple GUI calendar application built with Python and Tkinter that displays th
 - User-friendly interface
 - Displays full year calendar in a clean format
 - Responsive design
--Easy year input
+- Easy year input
 ---
 ## Requirements
 ```
