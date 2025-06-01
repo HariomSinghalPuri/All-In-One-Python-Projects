@@ -1,5 +1,5 @@
 # import all functions from the tkinter
-from tkinter import *
+from tkinter import Tk, Label, Entry, Button
 
 from tkinter import ttk
 
